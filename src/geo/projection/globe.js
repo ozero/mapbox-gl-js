@@ -47,7 +47,6 @@ export default {
     unsupportedLayers: [
         'circle',
         'heatmap',
-        'fill-extrusion',
         'debug',
         'custom'
     ],
